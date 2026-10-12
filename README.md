@@ -1,3 +1,5 @@
+> **已迁移**：本插件已合并至统一仓库 [agent-plugins](https://github.com/dream-star-end/agent-plugins)，后续更新只在新仓进行，本仓归档保留。
+
 # hot-plugin · 全网热搜聚合 Agent 插件
 
 给 AI Agent 用的热搜工具包：**零依赖 CLI + Agent Skill**，聚合五大平台
